@@ -50,3 +50,6 @@ dist/
 # Cloudflare Vite plugin 2.x's build output and local state
 .everyapp/
 .cloudflare/
+
+# LTX-2.5 model files (too big for GitHub)
+tools/ltx/models/
